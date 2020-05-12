@@ -1,4 +1,4 @@
-# css-darkmode
+# carousel-slider
 
 <img src="https://i.ytimg.com/vi/0MFfXSTjPAs/maxresdefault.jpg" height="200">
 
